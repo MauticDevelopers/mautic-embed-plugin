@@ -1,8 +1,4 @@
 # mautic-embed-plugin
-Mautic - Pipedrive CRM plugin
+Founded by: https://www.outboundops.com/
 
-
-This plugin allows for synchronization between Mautic and Pipedrive. If you don't have the Pipedrive account yet, create it here: https://www.pipedrive.com
-
-For more information and documentation visit 
-https://mauticdevelopers.com/blog/mautic-pipedrive-crm-plugin/
+Mautic plugin developed by https://mauticdevelopers.com 
